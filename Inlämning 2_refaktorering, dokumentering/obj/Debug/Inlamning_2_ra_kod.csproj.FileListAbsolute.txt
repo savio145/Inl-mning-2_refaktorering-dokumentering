@@ -1,0 +1,7 @@
+C:\Users\Savio\Desktop\C#\Inlämning 2\bin\Debug\Inlamning_2_ra_kod.exe.config
+C:\Users\Savio\Desktop\C#\Inlämning 2\bin\Debug\Inlamning_2_ra_kod.exe
+C:\Users\Savio\Desktop\C#\Inlämning 2\bin\Debug\Inlamning_2_ra_kod.pdb
+C:\Users\Savio\Desktop\C#\Inlämning 2\obj\Debug\Inlamning_2_ra_kod.csprojAssemblyReference.cache
+C:\Users\Savio\Desktop\C#\Inlämning 2\obj\Debug\Inlamning_2_ra_kod.csproj.CoreCompileInputs.cache
+C:\Users\Savio\Desktop\C#\Inlämning 2\obj\Debug\Inlamning_2_ra_kod.exe
+C:\Users\Savio\Desktop\C#\Inlämning 2\obj\Debug\Inlamning_2_ra_kod.pdb
